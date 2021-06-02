@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "headless-chrome-crawler": "^1.8.0",
+    "pm2": "^4.5.5",
+    "redis": "^2.8.0",
+    "telegram-bot-api": "^2.0.1",
+    "tgfancy": "^0.13.0"
+  },
+  "name": "douban",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
